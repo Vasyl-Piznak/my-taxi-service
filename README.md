@@ -1,4 +1,4 @@
-# 🚖 My-taxi-service 🚖
+# 🚖 My taxi-service 🚖
 # Project description:
 This is web application that supports authentication, registration and other CRUD operations.
 # Features:
