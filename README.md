@@ -4,12 +4,12 @@ This is web application that supports authentication, registration and other CRU
 
 ![image](https://github.com/Vasyl-Piznak/my-taxi-service/assets/106866989/fa35627d-2e25-4680-b481-151a47ddb4c2)
  
-## Project structure:
+## <img height="30" src="https://cdn-icons-png.flaticon.com/512/2857/2857406.png" width="36"/> Project structure:
 - Data access tier -> handled by DAO;
 - Business logic tier -> handled by Service;
 - Presentation tier -> handled by Controllers and JSP pages.
  
-##  Technologies used:
+## <img height="30" src="https://edps.europa.eu/sites/default/files/picture/technologies2.png" width="36"/> Technologies used:
 - Java for service (I'm using version 17.0.3.1)
 - IntelliJ IDEA (I'm using IntelliJ IDEA 2021.2.2 Ultimate Edition)
 - Maven for service (I'm using version 3.8.6)
@@ -20,18 +20,19 @@ This is web application that supports authentication, registration and other CRU
 - Java Servlet API for presentation (I'm using version 4.0.1)
 - JSTL for presentation
 
-## Features:
-- registration like a driver;
-- authentication lile a driver;
-- create/update/remove a manufacturer;
-- create/update/remove a driver;
-- create/update/remove a car;
-- display list of all manufacturers;
-- display list of all drivers;
-- display list of all cars;
-- add driver to car;
+## <img height="30" src = "https://cdn4.iconfinder.com/data/icons/scrum-process-2/64/product-capability-ability-features-requirements-512.png" width="36"/> Features:
+- Registration like a driver;
+- Authentication lile a driver;
+- Create/update/remove a manufacturer;
+- Create/update/remove a driver;
+- Create/update/remove a car;
+- Display list of all manufacturers;
+- Display list of all drivers;
+- Display list of all cars;
+- Add driver to car;
 
-## How to launch the project on your PC:
+
+## <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQZfgbHHUnh8EnFosVBvL1Q9zxQAuNrlmEzCQBAGzc7VihcwrsyRzGRBuvseJz4P-0OM&amp;usqp=CAU" width="30"/>  How to launch the project on your PC:
 
 - Fork this repo
 - Create schema and all tables using the file init_db.sql
