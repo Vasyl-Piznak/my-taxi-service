@@ -10,14 +10,13 @@ This is a simple application that allows you to work with a taxi service. This a
 - Presentation tier -> handled by Controllers and JSP pages.
  
 ## <img height="30" src="https://edps.europa.eu/sites/default/files/picture/technologies2.png" width="36"/> Technologies used:
-- <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="36"/> Java for service (I'm using version 18.0.1) 
-- <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="36"/> IntelliJ IDEA (I'm using IntelliJ IDEA 2021.2.2 Ultimate Edition) 
-- <img height="30" src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/6ca8194c-164f-4718-930a-2bed171d0430/1359200834/apache-maven-maven-logo.png" width="36"/> Maven for service (I'm using version 3.11.4) 
+- <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="36"/> Java (version 18.0.1)  
+- <img height="30" src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/6ca8194c-164f-4718-930a-2bed171d0430/1359200834/apache-maven-maven-logo.png" width="36"/> Maven (version 3.11.4) 
 - <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGDWZvGnIggXi_v9xMGaW9qZrlPaFz_Cjjw&usqp=CAU" width="36"/> JDBC for connection to DB 
-- <img height="30" src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width="36"/> MySQL as database (I'm using version 8.0.22)                                  
-- <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png" width="36"/> Apache Tomcat as web server (I'm using version 9.0.73) 
+- <img height="30" src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width="36"/> MySQL as database (version 8.0.22)                                  
+- <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png" width="36"/> Apache Tomcat as web server (version 9.0.73) 
 - <img height="30" src="https://cdn-icons-png.flaticon.com/512/29/29540.png" width="36"/> JSP for presentation
-- <img height="30" src="https://w7.pngwing.com/pngs/131/718/png-transparent-representational-state-transfer-computer-icons-application-programming-interface-web-api-others-miscellaneous-blue-computer-network.png" width="36"/> Java Servlet API for presentation (I'm using version 4.0.1)
+- <img height="30" src="https://w7.pngwing.com/pngs/131/718/png-transparent-representational-state-transfer-computer-icons-application-programming-interface-web-api-others-miscellaneous-blue-computer-network.png" width="36"/> Java Servlet API for presentation (version 4.0.1)
 - <img height="30" src="https://image.winudf.com/v2/image/anN0bC5hcHBzLmdvbGQubXlhcHBsaWNhdGlvbl9zY3JlZW5fMF9qaWZycW84eA/screen-0.webp?fakeurl=1&type=.webp" width="36"/> JSTL for presentation
 
 ## <img height="30" src = "https://i.pinimg.com/564x/d5/1d/8b/d51d8b2ff28db324ed1be2766f793c43.jpg" width="36"/> DataBase structure:
