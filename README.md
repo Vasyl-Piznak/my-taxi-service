@@ -45,6 +45,6 @@ This is a simple application that allows you to work with a taxi service. This a
   private static final String PASSWORD = "PASSWORD";
   private static final String JDBC_DRIVER = "JDBC_DRIVER";
   ~~~
-- Install Tomcat. I am using Tomcat 9.0.50.
+- Install Tomcat. I am using Tomcat 9.0.73.
 - Add Tomcat server to configuration
 - Run project
